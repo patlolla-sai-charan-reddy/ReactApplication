@@ -1,2 +1,2 @@
-# ReactApplication
-This application is a replica of Youtube in ReactJS
+# YoutubeApplication-ReactJS
+This application is built using the babel, webpack and ReactJS. 
